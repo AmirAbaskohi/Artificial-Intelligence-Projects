@@ -16,3 +16,6 @@
 [submodule "Checkers-using-pygame"]
 	path = Checkers-using-pygame
 	url = https://github.com/AmirAbaskohi/Checkers-using-pygame
+[submodule "ValuePredictionOfADataset"]
+	path = ValuePredictionOfADataset
+	url = https://github.com/AmirAbaskohi/ValuePredictionOfADataset
