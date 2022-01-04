@@ -1,0 +1,18 @@
+[submodule "A-star-algorithm-using-Python"]
+	path = A-star-algorithm-using-Python
+	url = https://github.com/AmirAbaskohi/A-star-algorithm-using-Python
+[submodule "FindSnakeMinimumPath"]
+	path = FindSnakeMinimumPath
+	url = https://github.com/AmirAbaskohi/FindSnakeMinimumPath
+[submodule "CommentPredictionWithNaiveBayes"]
+	path = CommentPredictionWithNaiveBayes
+	url = https://github.com/AmirAbaskohi/CommentPredictionWithNaiveBayes
+[submodule "Fashion-Mnist-Classifier"]
+	path = Fashion-Mnist-Classifier
+	url = https://github.com/AmirAbaskohi/Fashion-Mnist-Classifier
+[submodule "HousePricePrediction"]
+	path = HousePricePrediction
+	url = https://github.com/AmirAbaskohi/HousePricePrediction
+[submodule "Checkers-using-pygame"]
+	path = Checkers-using-pygame
+	url = https://github.com/AmirAbaskohi/Checkers-using-pygame
