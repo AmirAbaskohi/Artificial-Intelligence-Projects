@@ -19,3 +19,6 @@
 [submodule "ValuePredictionOfADataset"]
 	path = ValuePredictionOfADataset
 	url = https://github.com/AmirAbaskohi/ValuePredictionOfADataset
+[submodule "Covid-19-Classifier"]
+	path = Covid-19-Classifier
+	url = https://github.com/AmirAbaskohi/Covid-19-Classifier
